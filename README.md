@@ -33,3 +33,4 @@ The system predicts the diabetic retinopathy severity grade and presents a Grad-
 
 ## Important Note
 This project is a screening prototype and is not a medical diagnosis tool. Predictions require appropriate validation, and clinical decisions must be made by a qualified ophthalmologist.
+The trained model file (trainedNetFinal.mat) is required to run the demo and is not included in this repository.
